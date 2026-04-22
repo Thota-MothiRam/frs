@@ -1,0 +1,24 @@
+{
+    "Db": {
+        "host": "192.168.2.137",
+        "port": 3307,
+        "user": "central",
+        "passwd": "Empulse@12345",
+        "db": "face_attendence"
+    },
+    "RTSP_URLS": {
+        "bangalore": "rtsp://admin:Empulse@123@192.168.5.30:554",
+        "mysore": "rtsp://admin:Empulse@123@192.168.2.70:554",
+        "local": 0
+    },
+    "distance_limits": {
+        "min_distance_ft": 0.5,
+        "max_distance_ft": 4
+    },
+    "Shift_Timings": {
+        "NS_SHIFT_START": "15:00:00",
+        "NS_SHIFT_END": "11:00:00"
+    },
+    "MESSAGE": "HAPPY DUSSEHRA",
+    "GIF_PATH":"uploads/das_2_1728697195438.webp"
+}
